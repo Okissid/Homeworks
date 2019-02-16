@@ -1,0 +1,145 @@
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	max-width;
+	margin: 0 auto;
+	width: 1010px;
+	height: 503px;
+	border: 1px solid #d7d7d7;
+	background-color: #ffffff;
+}
+.frame {
+	margin-top: 64px;
+	vertical-align: middle;
+	display: inline-block;
+}
+.text {
+	margin-top: 94px;
+	margin-left: 99px;
+	margin-right: 93px;
+	margin-bottom: 81px;
+	vertical-align: top;
+	display: inline-block;
+	width: 393px; 
+}
+.text_2 {
+	width: 178px;
+	height: 22px;
+	color: #2f2f2f;
+	font-family: "Arial - Bold MT";
+	font-size: 23px;
+	font-weight: 400px;
+}
+.text_3 {
+	width: 393px;
+	height: 50px;
+	color: #2f2f2f;
+	font-family: "Arial MT";
+	font-size: 15px;
+	font-weight: 400;
+}
+.text_4 {
+	width: 35px;
+	height: 14px;
+	color: #2f2f2f;
+	font-family: "Arial MT";
+	font-size: 15px;
+	font-weight: 400;
+}
+.text_5 {
+	width: 103px;
+	height: 28px;
+	color: #2f2f2f;
+	font-family: "Arial MT";
+	font-size: 30px;
+	font-weight: 400;
+}
+.button {
+	border-radius: 5px;
+	text-align: center;
+	width: 252px;
+	height: 50px;
+	background-color: #ec744a;
+	vertical-align: middle;
+	line-height: 50px;
+}
+.txt {
+	width: 174px;
+	height: 18px;
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 19px;
+	font-weight: 400;
+	text-decoration: none; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.beats {
+	/* display: inline-block;*/
+}
+
+.box {
+	display: inline-block; /*строчно-блочный элемент*/
+	/*Ширина*/
+	width: 1010px;
+	/*Высота*/ 
+	height: 503px;
+	/*Фоновый цвет*/
+	background-color: white;
+	/*Внутренние отступы*/
+	padding: 64px 48px;
+	/*padding-left: 20px;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	padding-right: 40px;
+	/*Отступы со всех сторон padding:10px (со всех сторон) padding: 10px 20px (10 - сверху и снизу, 20 - с боков); padding: 10px 15px 20px 25px (все по часововй стрелке)*/
+	/*Рамка*/
+	border: solid 1px black;
+	/*border-color: black;
+	border-width: 6px 5px 6px 15px;
+	border-style: solid; /*dashed-пунктир, dotted-точками*/
+	/*Короткая запись*/
+	/*border: solid 6px black*/
+	/*Внешние отступы*/
+	margin: 86px 95px;
+}
+
+}
+.box-3 {
+	display: inline-block;
+	padding: 94px 309px 387px 523px;
+	width: 178px;
+	height: 22px;
+	color: #2f2f2f;
+	font-family: "Arial - Bold MT";
+	font-size: 23px;
+	font-weight: 400;
+}
+.box-4 {
+	padding: 146px 93px 307px 524px;
+	width: 393px;
+height: 50px;
+color: #2f2f2f;
+font-family: "Arial MT";
+font-size: 15px;
+font-weight: 400;
+}
+
+
+.link {
+	background: grey;
+	padding: 10px;
+}
+
