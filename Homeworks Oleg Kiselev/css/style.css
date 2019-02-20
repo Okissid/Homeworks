@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+.head {
+    text-decoration: none;
+    color: #32325f;
+    margin-left: 20px;
+}
+.link {
+    color: #32325f;    
+}
+.reference a {
+    text-decoration: none;
+    margin-left: 20px;
+    line-height: 1.4;
+}.container {
+    margin-bottom: 70px;
+}
